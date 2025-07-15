@@ -133,7 +133,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: image,
     source_code_link: "https://the-wild-oasis-website.vercel.app/",
   },
  
