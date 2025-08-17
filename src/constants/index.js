@@ -24,6 +24,7 @@ import {
   tripguide,
   threejs,
   image,
+  image2
 } from "../assets";
 
 export const navLinks = [
@@ -135,7 +136,49 @@ const projects = [
       },
     ],
     image: image,
-    source_code_link: "https://the-wild-oasis-website.vercel.app/",
+    source_code_link: "https://tmcc.dev",
+  },
+    {
+    name: "TMCC",
+    description:
+      "A website to browse minecraft farms.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: image2,
+    source_code_link: "https://tmcc.dev/",
+  },
+      {
+    name: "GTA VI landing page",
+    description:
+      "Recreation of the GTA VI landing page.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "gsap",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: imag3,
+    source_code_link: "https://tmcc.dev/",
   },
  
 ];
