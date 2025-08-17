@@ -24,7 +24,8 @@ import {
   tripguide,
   threejs,
   image,
-  image2
+  image2,
+  image3
 } from "../assets";
 
 export const navLinks = [
@@ -177,7 +178,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: imag3,
+    image: image3,
     source_code_link: "https://tmcc.dev/",
   },
  
